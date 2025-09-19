@@ -1,2 +1,11 @@
-# Flood-Shield-innovators
-AI Flood Alert System is a digital platform that uses Artificial Intelligence to provide real-time flood warnings, risk assessments, and safety information. It helps communities prepare for and respond to floods by analyzing weather data, river levels, and rainfall patterns, then delivering timely alerts and safety tips.
+
+  # AI Flood Alert Website
+
+  This is a code bundle for AI Flood Alert Website. The original project is available at https://www.figma.com/design/MHA3GyW0W94pvM1joFezHo/AI-Flood-Alert-Website.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
