@@ -1,0 +1,178 @@
+<div style="width: 982px; height: 1060px; position: relative; background: white">
+  <div style="width: 982px; height: 1060px; padding-top: 80px; padding-left: 24px; padding-right: 24px; left: 0px; top: 0px; position: absolute; background: linear-gradient(135deg, #F9FAFB 0%, #EFF6FF 100%); flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; height: 900px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 48px; display: flex">
+      <div style="align-self: stretch; height: 180px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+        <div style="align-self: stretch; height: 64px; padding-right: 0.02px; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div style="width: 64px; height: 64px; position: relative; overflow: hidden">
+            <div style="width: 42.67px; height: 53.34px; left: 10.67px; top: 5.33px; position: absolute; outline: 5.33px #155DFC solid; outline-offset: -2.67px"></div>
+          </div>
+          <div style="width: 82.39px; height: 60px; position: relative">
+            <div style="left: 11px; top: -6px; position: absolute; text-align: center; color: #0A0A0A; font-size: 60px; font-family: Arial; font-weight: 400; line-height: 60px; word-wrap: break-word">⚡</div>
+          </div>
+        </div>
+        <div style="align-self: stretch; height: 48px; position: relative">
+          <div style="left: 327.92px; top: -5px; position: absolute; text-align: center; color: #101828; font-size: 48px; font-family: Arial; font-weight: 400; line-height: 48px; word-wrap: break-word">Demo (MVP)</div>
+        </div>
+        <div style="align-self: stretch; height: 28px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="flex: 1 1 0; text-align: center; color: #4A5565; font-size: 20px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">FloodGuard AI in action</div>
+        </div>
+      </div>
+      <div style="align-self: stretch; height: 404px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="width: 451px; height: 404px; position: relative; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px">
+          <div style="width: 353px; height: 24px; left: 49px; top: 49px; position: absolute">
+            <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 18px; height: 18px; left: 3px; top: 3px; position: absolute; outline: 2px #155DFC solid; outline-offset: -1px"></div>
+            </div>
+            <div style="left: 32px; top: 2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Live Dashboard</div>
+          </div>
+          <div style="width: 401px; height: 174px; padding-left: 24px; padding-right: 24px; left: 25px; top: 103px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+            <div style="align-self: stretch; height: 90px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; background: #FEF2F2; border-radius: 10px; outline: 1px #FFC9C9 solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+              <div style="align-self: stretch; height: 56px; justify-content: space-between; align-items: center; display: inline-flex">
+                <div style="width: 157.61px; height: 56px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="align-self: stretch; height: 24px; position: relative">
+                    <div style="left: 0px; top: -2px; position: absolute; color: #82181A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">📍 Minna, Niger State</div>
+                  </div>
+                  <div style="align-self: stretch; height: 32px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="flex: 1 1 0; color: #E7000B; font-size: 24px; font-family: Arial; font-weight: 400; line-height: 32px; word-wrap: break-word">HIGH RISK</div>
+                  </div>
+                </div>
+                <div style="width: 93.25px; height: 40px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="text-align: right; color: #E7000B; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Risk Level: 85%</div>
+                  </div>
+                  <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="flex: 1 1 0; text-align: right; color: #E7000B; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">24hr Forecast</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div style="align-self: stretch; height: 44px; position: relative">
+              <div style="width: 109.66px; height: 44px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="align-self: stretch; height: 28px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="flex: 1 1 0; text-align: center; color: #155DFC; font-size: 20px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">156mm</div>
+                </div>
+                <div style="align-self: stretch; height: 16px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="flex: 1 1 0; text-align: center; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Expected Rainfall</div>
+                </div>
+              </div>
+              <div style="width: 109.67px; height: 44px; left: 121.66px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="align-self: stretch; height: 28px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="flex: 1 1 0; text-align: center; color: #D08700; font-size: 20px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">4.2m</div>
+                </div>
+                <div style="align-self: stretch; height: 16px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="flex: 1 1 0; text-align: center; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">River Level</div>
+                </div>
+              </div>
+              <div style="width: 109.66px; height: 44px; left: 243.33px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="align-self: stretch; height: 28px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="flex: 1 1 0; text-align: center; color: #E7000B; font-size: 20px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">12,000</div>
+                </div>
+                <div style="align-self: stretch; height: 16px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="flex: 1 1 0; text-align: center; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">People at Risk</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 451px; height: 404px; position: relative; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px">
+          <div style="width: 353px; height: 24px; left: 49px; top: 49px; position: absolute">
+            <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 20px; height: 19px; left: 2px; top: 3px; position: absolute; outline: 2px #00A63E solid; outline-offset: -1px"></div>
+            </div>
+            <div style="left: 32px; top: 2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Sample SMS Alert</div>
+          </div>
+          <div style="width: 401px; height: 276px; padding-left: 24px; padding-right: 24px; left: 25px; top: 103px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+            <div style="align-self: stretch; height: 160px; padding-top: 16px; padding-left: 16px; padding-right: 16px; background: #F3F4F6; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+              <div style="align-self: stretch; height: 20px; position: relative">
+                <div style="left: 0px; top: -1px; position: absolute; color: #0A0A0A; font-size: 14px; font-family: Consolas; font-weight: 400; line-height: 20px; word-wrap: break-word">📱</div>
+                <div style="width: 123.16px; height: 17px; left: 26.92px; top: 1px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="color: #0A0A0A; font-size: 14px; font-family: Consolas; font-weight: 700; line-height: 20px; word-wrap: break-word">FloodGuard Alert</div>
+                </div>
+              </div>
+              <div style="align-self: stretch; height: 20px; position: relative">
+                <div style="left: 0px; top: -1px; position: absolute; color: #0A0A0A; font-size: 14px; font-family: Consolas; font-weight: 400; line-height: 20px; word-wrap: break-word">⚠️</div>
+                <div style="width: 115.47px; height: 17px; left: 26.92px; top: 1px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="color: #0A0A0A; font-size: 14px; font-family: Consolas; font-weight: 700; line-height: 20px; word-wrap: break-word">HIGH FLOOD RISK</div>
+                </div>
+                <div style="left: 142.39px; top: -1px; position: absolute; color: #0A0A0A; font-size: 14px; font-family: Consolas; font-weight: 400; line-height: 20px; word-wrap: break-word">in Bosso area, Minna</div>
+              </div>
+              <div style="align-self: stretch; height: 20px; position: relative">
+                <div style="left: 0px; top: -1px; position: absolute; color: #0A0A0A; font-size: 14px; font-family: Consolas; font-weight: 400; line-height: 20px; word-wrap: break-word">🏃‍♂️ Move valuables to higher ground NOW</div>
+              </div>
+              <div style="align-self: stretch; height: 20px; position: relative">
+                <div style="left: 0px; top: -1px; position: absolute; color: #0A0A0A; font-size: 14px; font-family: Consolas; font-weight: 400; line-height: 20px; word-wrap: break-word">🚗 Avoid low roads near Chanchaga River</div>
+              </div>
+              <div style="align-self: stretch; height: 16px; position: relative">
+                <div style="left: 0px; top: 0px; position: absolute; color: #4A5565; font-size: 12px; font-family: Consolas; font-weight: 400; line-height: 16px; word-wrap: break-word">Sent: 2 min ago | Reply HELP for assistance</div>
+              </div>
+            </div>
+            <div style="align-self: stretch; height: 76px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+              <div style="align-self: stretch; height: 20px; position: relative">
+                <div style="width: 44.22px; height: 19px; left: 0px; top: 0px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 700; line-height: 20px; word-wrap: break-word">Hausa:</div>
+                </div>
+                <div style="left: 44.22px; top: -2px; position: absolute; color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">"Haddari ruwa mai girma a Bosso..."</div>
+              </div>
+              <div style="align-self: stretch; height: 20px; position: relative">
+                <div style="width: 42.84px; height: 19px; left: 0px; top: 0px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 700; line-height: 20px; word-wrap: break-word">Reach:</div>
+                </div>
+                <div style="left: 42.84px; top: -2px; position: absolute; color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">12,000 residents via SMS + USSD</div>
+              </div>
+              <div style="align-self: stretch; height: 20px; position: relative">
+                <div style="width: 58.34px; height: 19px; left: 0px; top: 0px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 700; line-height: 20px; word-wrap: break-word">Delivery:</div>
+                </div>
+                <div style="left: 58.34px; top: -2px; position: absolute; color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">98% success rate in <2 minutes</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; height: 236px; position: relative; background: #F0FDF4; border-radius: 14px; outline: 1px #B9F8CF solid; outline-offset: -1px">
+        <div style="width: 836px; height: 16px; left: 49px; top: 49px; position: absolute">
+          <div style="left: 372.56px; top: -2px; position: absolute; text-align: center; color: #00A63E; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Impact Story</div>
+        </div>
+        <div style="width: 884px; height: 116px; padding-left: 24px; padding-right: 24px; left: 25px; top: 95px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="align-self: stretch; height: 56px; position: relative">
+            <div style="width: 819px; left: 8.50px; top: -1px; position: absolute; text-align: center; color: #0A0A0A; font-size: 18px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">"This alert system could have saved Farmer Musa's entire rice harvest last season. With 4 hours advance notice, his family and 200 bags of rice would have been moved to safety."</div>
+          </div>
+          <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="flex: 1 1 0; text-align: center; color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Potential impact: Lives saved, ₦2M+ agricultural losses prevented per community</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 223.77px; height: 56px; padding-left: 24px; padding-right: 24px; left: 379.12px; top: 772px; position: absolute; background: white; box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10); border-radius: 33554400px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+    <div style="width: 38px; height: 32px; background: white; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; justify-content: center; align-items: center; display: flex">
+      <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+        <div style="width: 4px; height: 8px; left: 6px; top: 4px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; height: 20px; position: relative">
+      <div style="width: 36px; left: 16px; top: -2px; position: absolute; color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">7 / 10</div>
+    </div>
+    <div style="width: 38px; height: 32px; background: white; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; justify-content: center; align-items: center; display: flex">
+      <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+        <div style="width: 4px; height: 8px; left: 6px; top: 4px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 982px; height: 40px; left: 0px; top: 302px; position: absolute; background: white; box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.10); flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; height: 4px; padding-right: 294.61px; background: #E5E7EB; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 4px; position: relative; background: #155DFC"></div>
+    </div>
+    <div style="align-self: stretch; height: 36px; padding-left: 24px; padding-right: 24px; justify-content: space-between; align-items: center; display: inline-flex">
+      <div style="width: 76.53px; height: 20px; position: relative">
+        <div style="width: 77px; left: 0px; top: -2px; position: absolute; color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Slide 7 of 10</div>
+      </div>
+      <div style="width: 170.41px; height: 20px; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="color: #155DFC; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">FloodGuard AI Presentation</div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 132.77px; height: 32px; left: 825.23px; top: 326px; position: absolute; background: rgba(255, 255, 255, 0.90); border-radius: 8px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px">
+    <div style="left: 13px; top: 4px; position: absolute; color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Exit Presentation</div>
+  </div>
+</div>
