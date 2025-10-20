@@ -1,0 +1,99 @@
+<div style="width: 982px; height: 935px; position: relative; background: white">
+  <div style="width: 982px; height: 935px; padding-top: 80px; padding-left: 24px; padding-right: 24px; left: 0px; top: 0px; position: absolute; background: linear-gradient(135deg, #F9FAFB 0%, #EFF6FF 100%); flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; height: 775px; position: relative">
+      <div style="width: 934px; height: 188px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 96px; height: 96px; left: 419px; top: 0px; position: absolute; background: linear-gradient(135deg, #155DFC 0%, #00A63E 100%); border-radius: 33554400px; justify-content: center; align-items: center; display: inline-flex">
+          <div style="width: 49.44px; height: 40px; position: relative">
+            <div style="left: 7px; top: -3px; position: absolute; text-align: center; color: #0A0A0A; font-size: 36px; font-family: Arial; font-weight: 400; line-height: 40px; word-wrap: break-word">🌍</div>
+          </div>
+        </div>
+        <div style="width: 934px; height: 60px; left: 0px; top: 128px; position: absolute">
+          <div style="left: 325.42px; top: -6px; position: absolute; text-align: center; color: #101828; font-size: 60px; font-family: Arial; font-weight: 400; line-height: 60px; word-wrap: break-word">Thank You</div>
+        </div>
+      </div>
+      <div style="width: 896px; height: 523px; padding-top: 48px; padding-bottom: 48px; padding-left: 48px; left: 19px; top: 252px; position: absolute; background: linear-gradient(135deg, #EFF6FF 0%, #F0FDF4 100%); border-radius: 14px; outline: 1px #BEDBFF solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="width: 798px; flex: 1 1 0; padding-left: 24px; padding-right: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+          <div style="align-self: stretch; height: 72px; position: relative">
+            <div style="width: 699px; left: 25.84px; top: -3px; position: absolute; text-align: center; color: #364153; font-size: 30px; font-family: Arial; font-style: italic; font-weight: 400; line-height: 36px; word-wrap: break-word">"Technology can't stop floods, but it can prepare us for them."</div>
+          </div>
+          <div style="align-self: stretch; height: 148px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+            <div style="align-self: stretch; height: 56px; position: relative">
+              <div style="width: 723px; left: 13.84px; top: -3px; position: absolute; text-align: center; color: #4A5565; font-size: 20px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">FloodGuard AI represents our commitment to using artificial intelligence for social good and climate resilience.</div>
+            </div>
+            <div style="align-self: stretch; height: 68px; padding-right: 0.02px; justify-content: center; align-items: center; gap: 32px; display: inline-flex">
+              <div style="width: 49px; height: 68px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+                <div style="align-self: stretch; height: 36px; position: relative">
+                  <div style="left: 9.89px; top: -3px; position: absolute; text-align: center; color: #0A0A0A; font-size: 30px; font-family: Arial; font-weight: 400; line-height: 36px; word-wrap: break-word">🌊</div>
+                </div>
+                <div style="align-self: stretch; height: 24px; position: relative">
+                  <div style="left: -1px; top: -2px; position: absolute; text-align: center; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Predict</div>
+                </div>
+              </div>
+              <div style="width: 20.72px; height: 32px; justify-content: flex-start; align-items: flex-start; display: flex">
+                <div style="text-align: center; color: #D1D5DC; font-size: 24px; font-family: Arial; font-weight: 400; line-height: 32px; word-wrap: break-word">→</div>
+              </div>
+              <div style="width: 41.20px; height: 68px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+                <div style="align-self: stretch; height: 36px; position: relative">
+                  <div style="left: 6px; top: -3px; position: absolute; text-align: center; color: #0A0A0A; font-size: 30px; font-family: Arial; font-weight: 400; line-height: 36px; word-wrap: break-word">📱</div>
+                </div>
+                <div style="align-self: stretch; height: 24px; position: relative">
+                  <div style="left: 4.83px; top: -2px; position: absolute; text-align: center; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Alert</div>
+                </div>
+              </div>
+              <div style="width: 20.72px; height: 32px; justify-content: flex-start; align-items: flex-start; display: flex">
+                <div style="text-align: center; color: #D1D5DC; font-size: 24px; font-family: Arial; font-weight: 400; line-height: 32px; word-wrap: break-word">→</div>
+              </div>
+              <div style="width: 50.50px; height: 68px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+                <div style="align-self: stretch; height: 36px; position: relative">
+                  <div style="left: 10.64px; top: -3px; position: absolute; text-align: center; color: #0A0A0A; font-size: 30px; font-family: Arial; font-weight: 400; line-height: 36px; word-wrap: break-word">🛡️</div>
+                </div>
+                <div style="align-self: stretch; height: 24px; position: relative">
+                  <div style="left: 0px; top: -2px; position: absolute; text-align: center; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Protect</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="align-self: stretch; height: 101px; padding-top: 33px; border-top: 1px #E5E7EB solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+            <div style="align-self: stretch; height: 28px; position: relative">
+              <div style="left: 280.30px; top: -1px; position: absolute; text-align: center; color: #4A5565; font-size: 18px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">Questions & Discussion</div>
+            </div>
+            <div style="align-self: stretch; height: 24px; position: relative">
+              <div style="left: 201.52px; top: -2px; position: absolute; text-align: center; color: #155DFC; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Flood Guard Innovators • 3MTT Hackathon 2024</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 231.31px; height: 56px; padding-left: 24px; padding-right: 24px; left: 375.34px; top: 855px; position: absolute; background: white; box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10); border-radius: 33554400px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+    <div style="width: 38px; height: 32px; background: white; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; justify-content: center; align-items: center; display: flex">
+      <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+        <div style="width: 4px; height: 8px; left: 6px; top: 4px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; height: 20px; position: relative">
+      <div style="width: 44px; left: 16px; top: -2px; position: absolute; color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">10 / 10</div>
+    </div>
+    <div style="width: 38px; height: 32px; opacity: 0.50; background: white; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; justify-content: center; align-items: center; display: flex">
+      <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+        <div style="width: 4px; height: 8px; left: 6px; top: 4px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 982px; height: 40px; left: 0px; top: 385px; position: absolute; background: white; box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.10); flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; height: 4px; background: #E5E7EB; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 4px; position: relative; background: #155DFC"></div>
+    </div>
+    <div style="align-self: stretch; height: 36px; padding-left: 24px; padding-right: 24px; justify-content: space-between; align-items: center; display: inline-flex">
+      <div style="width: 84.08px; height: 20px; position: relative">
+        <div style="width: 85px; left: 0px; top: -2px; position: absolute; color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Slide 10 of 10</div>
+      </div>
+      <div style="width: 170.41px; height: 20px; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="color: #155DFC; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">FloodGuard AI Presentation</div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 132.77px; height: 32px; left: 825.23px; top: 409px; position: absolute; background: rgba(255, 255, 255, 0.90); border-radius: 8px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px">
+    <div style="left: 13px; top: 4px; position: absolute; color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Exit Presentation</div>
+  </div>
+</div>
