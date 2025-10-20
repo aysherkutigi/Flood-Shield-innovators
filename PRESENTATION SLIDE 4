@@ -1,0 +1,141 @@
+<div style="width: 982px; height: 998px; padding-top: 80px; padding-left: 24px; padding-right: 24px; background: linear-gradient(135deg, #F9FAFB 0%, #EFF6FF 100%); flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+  <div style="align-self: stretch; height: 838px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 48px; display: flex">
+    <div style="align-self: stretch; height: 172px; position: relative">
+      <div style="width: 64px; height: 64px; left: 435px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 53.33px; height: 48px; left: 5.33px; top: 8px; position: absolute; outline: 5.33px #00A63E solid; outline-offset: -2.67px"></div>
+      </div>
+      <div style="width: 934px; height: 48px; left: 0px; top: 80px; position: absolute">
+        <div style="left: 344.44px; top: -5px; position: absolute; text-align: center; color: #101828; font-size: 48px; font-family: Arial; font-weight: 400; line-height: 48px; word-wrap: break-word">References</div>
+      </div>
+      <div style="width: 934px; height: 28px; left: 0px; top: 144px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="flex: 1 1 0; text-align: center; color: #4A5565; font-size: 20px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">Data sources and research foundation</div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 388px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+      <div style="width: 451px; height: 388px; position: relative; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px">
+        <div style="width: 353px; height: 32px; left: 49px; top: 49px; position: absolute">
+          <div style="width: 32.95px; height: 32px; left: 0px; top: 0px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="flex: 1 1 0; color: #0A0A0A; font-size: 24px; font-family: Arial; font-weight: 400; line-height: 32px; word-wrap: break-word">📊</div>
+          </div>
+          <div style="left: 44.95px; top: 6px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Data Sources</div>
+        </div>
+        <div style="width: 401px; height: 204px; padding-left: 24px; padding-right: 24px; left: 25px; top: 111px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+          <div style="align-self: stretch; height: 48px; position: relative">
+            <div style="left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">•</div>
+            <div style="width: 134.75px; height: 21px; left: 10.89px; top: 1px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 700; line-height: 24px; word-wrap: break-word">OpenWeather API</div>
+            </div>
+            <div style="width: 307px; left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">- Real-time weather & rainfall data</div>
+          </div>
+          <div style="align-self: stretch; height: 48px; position: relative">
+            <div style="left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">•</div>
+            <div style="width: 110.64px; height: 21px; left: 10.89px; top: 1px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 700; line-height: 24px; word-wrap: break-word">NEMA Reports</div>
+            </div>
+            <div style="width: 280px; left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">- Nigerian emergency management data</div>
+          </div>
+          <div style="align-self: stretch; height: 24px; position: relative">
+            <div style="left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">•</div>
+            <div style="width: 47.39px; height: 21px; left: 10.89px; top: 1px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 700; line-height: 24px; word-wrap: break-word">NiMet</div>
+            </div>
+            <div style="left: 58.28px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">- Nigerian meteorological service</div>
+          </div>
+          <div style="align-self: stretch; height: 24px; position: relative">
+            <div style="left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">•</div>
+            <div style="width: 154.02px; height: 21px; left: 10.89px; top: 1px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 700; line-height: 24px; word-wrap: break-word">Historical flood data</div>
+            </div>
+            <div style="left: 164.91px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">- Past incident analysis</div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 451px; height: 388px; position: relative; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px">
+        <div style="width: 353px; height: 32px; left: 49px; top: 49px; position: absolute">
+          <div style="width: 32.95px; height: 32px; left: 0px; top: 0px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="flex: 1 1 0; color: #0A0A0A; font-size: 24px; font-family: Arial; font-weight: 400; line-height: 32px; word-wrap: break-word">🔬</div>
+          </div>
+          <div style="left: 44.95px; top: 6px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Research & Examples</div>
+        </div>
+        <div style="width: 401px; height: 252px; padding-left: 24px; padding-right: 24px; left: 25px; top: 111px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+          <div style="align-self: stretch; height: 48px; position: relative">
+            <div style="left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">•</div>
+            <div style="width: 225.73px; height: 21px; left: 10.89px; top: 1px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 700; line-height: 24px; word-wrap: break-word">Bangladesh flood SMS system</div>
+            </div>
+            <div style="width: 337px; left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">- Proven alert model</div>
+          </div>
+          <div style="align-self: stretch; height: 48px; position: relative">
+            <div style="left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">•</div>
+            <div style="width: 212.12px; height: 21px; left: 10.89px; top: 1px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 700; line-height: 24px; word-wrap: break-word">AI climate prediction papers</div>
+            </div>
+            <div style="width: 307px; left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">- Academic research</div>
+          </div>
+          <div style="align-self: stretch; height: 48px; position: relative">
+            <div style="left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">•</div>
+            <div style="width: 209.27px; height: 21px; left: 10.89px; top: 1px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 700; line-height: 24px; word-wrap: break-word">WHO emergency guidelines</div>
+            </div>
+            <div style="width: 282px; left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">- Health protection protocols</div>
+          </div>
+          <div style="align-self: stretch; height: 48px; position: relative">
+            <div style="left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">•</div>
+            <div style="width: 170.31px; height: 21px; left: 10.89px; top: 1px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 700; line-height: 24px; word-wrap: break-word">Local language studies</div>
+            </div>
+            <div style="width: 309px; left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">- Communication effectiveness</div>
+          </div>
+        </div>
+        <div style="width: 223.77px; height: 56px; padding-left: 24px; padding-right: 24px; left: -160px; top: 316px; position: absolute; background: white; box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10); border-radius: 33554400px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+          <div style="width: 38px; height: 32px; background: white; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; justify-content: center; align-items: center; display: flex">
+            <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+              <div style="width: 4px; height: 8px; left: 6px; top: 4px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+            </div>
+          </div>
+          <div style="flex: 1 1 0; height: 20px; position: relative">
+            <div style="width: 36px; left: 16px; top: -2px; position: absolute; color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">4 / 10</div>
+          </div>
+          <div style="width: 38px; height: 32px; background: white; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; justify-content: center; align-items: center; display: flex">
+            <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+              <div style="width: 4px; height: 8px; left: 6px; top: 4px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 198px; padding-top: 24px; padding-bottom: 24px; padding-left: 24px; background: #EFF6FF; border-radius: 14px; outline: 1px #BEDBFF solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="width: 884px; flex: 1 1 0; padding-left: 24px; padding-right: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+        <div style="align-self: stretch; height: 28px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="flex: 1 1 0; text-align: center; color: #0A0A0A; font-size: 20px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">Key Insights from Research</div>
+        </div>
+        <div style="align-self: stretch; height: 80px; position: relative">
+          <div style="width: 262.66px; height: 80px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+            <div style="align-self: stretch; height: 32px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; text-align: center; color: #155DFC; font-size: 24px; font-family: Arial; font-weight: 400; line-height: 32px; word-wrap: break-word">70%</div>
+            </div>
+            <div style="align-self: stretch; height: 40px; position: relative">
+              <div style="width: 239px; left: 12.11px; top: -2px; position: absolute; text-align: center; color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Flood casualties preventable with early warning</div>
+            </div>
+          </div>
+          <div style="width: 262.67px; height: 80px; left: 286.66px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+            <div style="align-self: stretch; height: 32px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; text-align: center; color: #00A63E; font-size: 24px; font-family: Arial; font-weight: 400; line-height: 32px; word-wrap: break-word">5-10min</div>
+            </div>
+            <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; text-align: center; color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Optimal warning time for evacuation</div>
+            </div>
+          </div>
+          <div style="width: 262.66px; height: 80px; left: 573.33px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+            <div style="align-self: stretch; height: 32px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; text-align: center; color: #9810FA; font-size: 24px; font-family: Arial; font-weight: 400; line-height: 32px; word-wrap: break-word">85%</div>
+            </div>
+            <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; text-align: center; color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Preference for local language alerts</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
