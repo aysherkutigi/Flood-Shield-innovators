@@ -1,0 +1,16 @@
+import React from "react";
+import { DemoSection } from "./DemoSection";
+import { HeaderSection } from "./HeaderSection";
+import { HeroSection } from "./HeroSection";
+
+export const AiFloodAlert = (): JSX.Element => {
+  return (
+    <div className="flex flex-col h-[2331px] items-start relative bg-white">
+      <div className="flex flex-col h-[2331px] items-start relative self-stretch w-full bg-gray-50">
+        <HeaderSection />
+        <HeroSection />
+        <DemoSection />
+      </div>
+    </div>
+  );
+};
