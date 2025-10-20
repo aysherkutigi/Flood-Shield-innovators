@@ -1,0 +1,96 @@
+<div style="width: 982px; height: 736px; position: relative; background: white">
+  <div style="width: 982px; height: 736px; padding-top: 80px; padding-left: 24px; padding-right: 24px; left: 0px; top: 0px; position: absolute; background: linear-gradient(135deg, #F9FAFB 0%, #EFF6FF 100%); flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; height: 576px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 48px; display: flex">
+      <div style="align-self: stretch; height: 172px; position: relative">
+        <div style="width: 64px; height: 64px; left: 435px; top: 0px; position: absolute; overflow: hidden">
+          <div style="width: 53.33px; height: 53.33px; left: 5.33px; top: 5.33px; position: absolute; outline: 5.33px #155DFC solid; outline-offset: -2.67px"></div>
+          <div style="width: 32px; height: 32px; left: 16px; top: 16px; position: absolute; outline: 5.33px #155DFC solid; outline-offset: -2.67px"></div>
+          <div style="width: 10.67px; height: 10.67px; left: 26.67px; top: 26.67px; position: absolute; outline: 5.33px #155DFC solid; outline-offset: -2.67px"></div>
+        </div>
+        <div style="width: 934px; height: 48px; left: 0px; top: 80px; position: absolute">
+          <div style="left: 417.80px; top: -5px; position: absolute; text-align: center; color: #101828; font-size: 48px; font-family: Arial; font-weight: 400; line-height: 48px; word-wrap: break-word">Task</div>
+        </div>
+        <div style="width: 934px; height: 28px; left: 0px; top: 144px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="flex: 1 1 0; text-align: center; color: #4A5565; font-size: 20px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">Build a minimum viable product that predicts flood risks and alerts communities</div>
+        </div>
+      </div>
+      <div style="align-self: stretch; height: 356px; padding-top: 56px; padding-bottom: 56px; padding-left: 56px; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 54px; display: flex">
+        <div style="width: 820px; height: 32px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="flex: 1 1 0; text-align: center; color: #0A0A0A; font-size: 24px; font-family: Arial; font-weight: 400; line-height: 32px; word-wrap: break-word">Core MVP Features</div>
+        </div>
+        <div style="width: 820px; flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 252px; height: 156px; position: relative">
+            <div style="width: 48px; height: 48px; left: 102px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 12px; height: 8px; left: 18px; top: 18px; position: absolute; outline: 4px #155DFC solid; outline-offset: -2px"></div>
+              <div style="width: 24px; height: 9px; left: 12px; top: 4px; position: absolute; outline: 4px #155DFC solid; outline-offset: -2px"></div>
+              <div style="width: 6.01px; height: 11.54px; left: 35.99px; top: 10.25px; position: absolute; outline: 4px #155DFC solid; outline-offset: -2px"></div>
+              <div style="width: 8px; height: 14.93px; left: 36px; top: 21.07px; position: absolute; outline: 4px #155DFC solid; outline-offset: -2px"></div>
+              <div style="width: 32px; height: 9.03px; left: 8px; top: 34.97px; position: absolute; outline: 4px #155DFC solid; outline-offset: -2px"></div>
+              <div style="width: 8px; height: 14.93px; left: 4px; top: 21.07px; position: absolute; outline: 4px #155DFC solid; outline-offset: -2px"></div>
+              <div style="width: 6.01px; height: 11.54px; left: 6px; top: 10.25px; position: absolute; outline: 4px #155DFC solid; outline-offset: -2px"></div>
+            </div>
+            <div style="width: 252px; height: 28px; left: 0px; top: 64px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; text-align: center; color: #0A0A0A; font-size: 20px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">Simple AI Model</div>
+            </div>
+            <div style="width: 252px; height: 48px; left: 0px; top: 108px; position: absolute">
+              <div style="width: 223px; left: 14.88px; top: -2px; position: absolute; text-align: center; color: #4A5565; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Predicts Low/Medium/High risk levels using weather data</div>
+            </div>
+          </div>
+          <div style="width: 252px; height: 156px; position: relative">
+            <div style="width: 48px; height: 48px; left: 102px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 40px; height: 37.99px; left: 4px; top: 6px; position: absolute; outline: 4px #00A63E solid; outline-offset: -2px"></div>
+            </div>
+            <div style="width: 252px; height: 28px; left: 0px; top: 64px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; text-align: center; color: #0A0A0A; font-size: 20px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">SMS/USSD Alerts</div>
+            </div>
+            <div style="width: 252px; height: 48px; left: 0px; top: 108px; position: absolute">
+              <div style="width: 224px; left: 14.41px; top: -2px; position: absolute; text-align: center; color: #4A5565; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Emergency notifications in local languages</div>
+            </div>
+          </div>
+          <div style="width: 252px; height: 156px; position: relative">
+            <div style="width: 48px; height: 48px; left: 102px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 36px; height: 36px; left: 6px; top: 6px; position: absolute; outline: 4px #9810FA solid; outline-offset: -2px"></div>
+            </div>
+            <div style="width: 252px; height: 28px; left: 0px; top: 64px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="flex: 1 1 0; text-align: center; color: #0A0A0A; font-size: 20px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">Dashboard</div>
+            </div>
+            <div style="width: 252px; height: 48px; left: 0px; top: 108px; position: absolute">
+              <div style="width: 185px; left: 33.78px; top: -2px; position: absolute; text-align: center; color: #4A5565; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Visual risk monitoring and community management</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 223.77px; height: 56px; padding-left: 24px; padding-right: 24px; left: 379.12px; top: 482px; position: absolute; background: white; box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10); border-radius: 33554400px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+    <div style="width: 38px; height: 32px; background: white; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; justify-content: center; align-items: center; display: flex">
+      <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+        <div style="width: 4px; height: 8px; left: 6px; top: 4px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; height: 20px; position: relative">
+      <div style="width: 36px; left: 16px; top: -2px; position: absolute; color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">2 / 10</div>
+    </div>
+    <div style="width: 38px; height: 32px; background: white; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; justify-content: center; align-items: center; display: flex">
+      <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+        <div style="width: 4px; height: 8px; left: 6px; top: 4px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 982px; height: 40px; left: 0px; top: 12px; position: absolute; background: white; box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.10); flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; height: 4px; padding-right: 785.61px; background: #E5E7EB; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 4px; position: relative; background: #155DFC"></div>
+    </div>
+    <div style="align-self: stretch; height: 36px; padding-left: 24px; padding-right: 24px; justify-content: space-between; align-items: center; display: inline-flex">
+      <div style="width: 76.53px; height: 20px; position: relative">
+        <div style="width: 77px; left: 0px; top: -2px; position: absolute; color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Slide 2 of 10</div>
+      </div>
+      <div style="width: 170.41px; height: 20px; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="color: #155DFC; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">FloodGuard AI Presentation</div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 132.77px; height: 32px; left: 825.23px; top: 36px; position: absolute; background: rgba(255, 255, 255, 0.90); border-radius: 8px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px">
+    <div style="left: 13px; top: 4px; position: absolute; color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Exit Presentation</div>
+  </div>
+</div>
