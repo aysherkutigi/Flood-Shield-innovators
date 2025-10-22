@@ -1,0 +1,134 @@
+<div style="width: 934px; height: 580px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+  <div style="width: 934px; height: 36px; padding-left: 3px; padding-right: 3px; padding-top: 3.50px; padding-bottom: 3.50px; background: #ECECF0; border-radius: 14px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; height: 29px; padding-right: 0.02px; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 14px; display: inline-flex">
+      <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+        <div style="width: 9.33px; height: 4px; left: 3.33px; top: 10px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+        <div style="width: 5.33px; height: 5.33px; left: 5.33px; top: 2px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      </div>
+      <div style="width: 40.95px; height: 20px; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Profile</div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 29px; padding-right: 0.02px; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 14px; display: inline-flex">
+      <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+        <div style="width: 2.31px; height: 0.67px; left: 6.85px; top: 14px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+        <div style="width: 12px; height: 10px; left: 2px; top: 1.33px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      </div>
+      <div style="width: 81.48px; height: 20px; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Notifications</div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 29px; padding-right: 0.02px; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 14px; display: inline-flex">
+      <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+        <div style="width: 10.67px; height: 13.34px; left: 2.67px; top: 1.33px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      </div>
+      <div style="width: 50.83px; height: 20px; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Security</div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 29px; padding-right: 0.02px; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 14px; display: inline-flex">
+      <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+        <div style="width: 11.94px; height: 13.31px; left: 2.03px; top: 1.34px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+        <div style="width: 4px; height: 4px; left: 6px; top: 6px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      </div>
+      <div style="width: 73.67px; height: 20px; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Preferences</div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 934px; flex: 1 1 0; position: relative; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px">
+    <div style="width: 884px; height: 20px; left: 25px; top: 25px; position: absolute">
+      <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 14.93px; height: 16.64px; left: 2.54px; top: 1.68px; position: absolute; outline: 1.67px #0A0A0A solid; outline-offset: -0.83px"></div>
+        <div style="width: 5px; height: 5px; left: 7.50px; top: 7.50px; position: absolute; outline: 1.67px #0A0A0A solid; outline-offset: -0.83px"></div>
+      </div>
+      <div style="left: 28px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">System Preferences</div>
+    </div>
+    <div style="width: 932px; height: 460px; padding-left: 24px; padding-right: 24px; left: 1px; top: 75px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+      <div style="align-self: stretch; height: 94px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+        <div style="align-self: stretch; height: 28px; position: relative">
+          <div style="left: 0px; top: -1px; position: absolute; color: #0A0A0A; font-size: 18px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">Display & Interface</div>
+        </div>
+        <div style="align-self: stretch; height: 50px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="align-self: stretch; align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Theme</div>
+            </div>
+            <div style="align-self: stretch; height: 36px; padding-left: 12px; padding-right: 12px; background: #F3F3F5; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: space-between; align-items: center; display: inline-flex">
+              <div style="width: 30.91px; height: 20px; overflow: hidden; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+                <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Light</div>
+              </div>
+              <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; overflow: hidden">
+                <div style="width: 8px; height: 4px; left: 4px; top: 6px; position: absolute; outline: 1.33px #717182 solid; outline-offset: -0.67px"></div>
+              </div>
+            </div>
+          </div>
+          <div style="align-self: stretch; align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Dashboard Layout</div>
+            </div>
+            <div style="align-self: stretch; height: 36px; padding-left: 12px; padding-right: 12px; background: #F3F3F5; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: space-between; align-items: center; display: inline-flex">
+              <div style="width: 44.70px; height: 20px; overflow: hidden; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+                <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Default</div>
+              </div>
+              <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; overflow: hidden">
+                <div style="width: 8px; height: 4px; left: 4px; top: 6px; position: absolute; outline: 1.33px #717182 solid; outline-offset: -0.67px"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; height: 1px; position: relative; background: rgba(0, 0, 0, 0.10)"></div>
+      <div style="align-self: stretch; height: 128px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+        <div style="align-self: stretch; height: 28px; position: relative">
+          <div style="left: 0px; top: -1px; position: absolute; color: #0A0A0A; font-size: 18px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">Data & Privacy</div>
+        </div>
+        <div style="align-self: stretch; height: 84px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+          <div style="align-self: stretch; height: 34px; justify-content: space-between; align-items: center; display: inline-flex">
+            <div style="width: 325.16px; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Analytics Collection</div>
+              </div>
+              <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Help improve FloodGuard by sharing usage analytics</div>
+              </div>
+            </div>
+            <div style="width: 32px; height: 18.39px; padding-left: 14px; background: #030213; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: flex">
+              <div style="width: 16px; height: 16px; position: relative; background: white; border-radius: 33554400px"></div>
+            </div>
+          </div>
+          <div style="align-self: stretch; height: 34px; justify-content: space-between; align-items: center; display: inline-flex">
+            <div style="width: 272.14px; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Error Reporting</div>
+              </div>
+              <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Automatically report errors to help fix issues</div>
+              </div>
+            </div>
+            <div style="width: 32px; height: 18.39px; padding-left: 14px; background: #030213; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: flex">
+              <div style="width: 16px; height: 16px; position: relative; background: white; border-radius: 33554400px"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; height: 1px; position: relative; background: rgba(0, 0, 0, 0.10)"></div>
+      <div style="align-self: stretch; height: 116px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+        <div style="align-self: stretch; height: 28px; position: relative">
+          <div style="left: 0px; top: -1px; position: absolute; color: #0A0A0A; font-size: 18px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">Data Management</div>
+        </div>
+        <div style="align-self: stretch; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="align-self: stretch; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; background: white; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+            <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Export My Data</div>
+          </div>
+          <div style="align-self: stretch; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; background: #D4183D; border-radius: 8px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+            <div style="color: white; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Delete Account</div>
+          </div>
+        </div>
+        <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="flex: 1 1 0; color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">You can export your data or permanently delete your account. Deletion is irreversible.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
