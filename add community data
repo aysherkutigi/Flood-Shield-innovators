@@ -1,0 +1,157 @@
+<div style="width: 512px; height: 450px; position: relative; background: white; box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10); border-radius: 10px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px">
+  <div style="width: 462px; height: 18px; left: 25px; top: 25px; position: absolute">
+    <div style="left: 0px; top: -1px; position: absolute; color: #0A0A0A; font-size: 18px; font-family: Arial; font-weight: 700; line-height: 18px; word-wrap: break-word">Add New Community Data</div>
+  </div>
+  <div style="width: 462px; height: 366px; left: 25px; top: 59px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+    <div style="align-self: stretch; height: 50px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+      <div style="align-self: stretch; align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+          <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">State</div>
+        </div>
+        <div style="align-self: stretch; height: 36px; padding-left: 12px; padding-right: 12px; background: #F3F3F5; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: space-between; align-items: center; display: inline-flex">
+          <div style="width: 34.30px; height: 20px; overflow: hidden; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+            <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Niger</div>
+          </div>
+          <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; overflow: hidden">
+            <div style="width: 8px; height: 4px; left: 4px; top: 6px; position: absolute; outline: 1.33px #717182 solid; outline-offset: -0.67px"></div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+          <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Local Government Area</div>
+        </div>
+        <div style="align-self: stretch; height: 36px; padding-left: 12px; padding-right: 12px; padding-top: 4px; padding-bottom: 4px; background: #F3F3F5; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: inline-flex">
+          <div style="color: #717182; font-size: 14px; font-family: Arial; font-weight: 400; word-wrap: break-word">e.g., Bosso</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 50px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+      <div style="align-self: stretch; align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+          <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Ward</div>
+        </div>
+        <div style="align-self: stretch; height: 36px; padding-left: 12px; padding-right: 12px; padding-top: 4px; padding-bottom: 4px; background: #F3F3F5; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: inline-flex">
+          <div style="color: #717182; font-size: 14px; font-family: Arial; font-weight: 400; word-wrap: break-word">e.g., Bosso Ward A</div>
+        </div>
+      </div>
+      <div style="align-self: stretch; align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+          <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Community/Village</div>
+        </div>
+        <div style="align-self: stretch; height: 36px; padding-left: 12px; padding-right: 12px; padding-top: 4px; padding-bottom: 4px; background: #F3F3F5; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: inline-flex">
+          <div style="color: #717182; font-size: 14px; font-family: Arial; font-weight: 400; word-wrap: break-word">e.g., Gbaiko Village</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 50px; position: relative">
+      <div style="width: 143.33px; height: 50px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+          <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Total Households</div>
+        </div>
+        <div style="align-self: stretch; height: 36px; background: #F3F3F5; border-radius: 8px; border: 1px rgba(0, 0, 0, 0) solid"></div>
+      </div>
+      <div style="width: 143.33px; height: 50px; left: 159.33px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+          <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Total Population</div>
+        </div>
+        <div style="align-self: stretch; height: 36px; background: #F3F3F5; border-radius: 8px; border: 1px rgba(0, 0, 0, 0) solid"></div>
+      </div>
+      <div style="width: 143.33px; height: 50px; left: 318.66px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+          <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Vulnerable Population</div>
+        </div>
+        <div style="align-self: stretch; height: 36px; padding-left: 12px; padding-right: 12px; padding-top: 4px; padding-bottom: 4px; background: #F3F3F5; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: inline-flex">
+          <div style="color: #717182; font-size: 14px; font-family: Arial; font-weight: 400; word-wrap: break-word">Elderly, children, disabled</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 50px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+      <div style="align-self: stretch; align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+          <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Community Contact Person</div>
+        </div>
+        <div style="align-self: stretch; height: 36px; padding-left: 12px; padding-right: 12px; padding-top: 4px; padding-bottom: 4px; background: #F3F3F5; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: inline-flex">
+          <div style="color: #717182; font-size: 14px; font-family: Arial; font-weight: 400; word-wrap: break-word">e.g., Chief John Adamu</div>
+        </div>
+      </div>
+      <div style="align-self: stretch; align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+          <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Phone Number</div>
+        </div>
+        <div style="align-self: stretch; height: 36px; padding-left: 12px; padding-right: 12px; padding-top: 4px; padding-bottom: 4px; background: #F3F3F5; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: inline-flex">
+          <div style="color: #717182; font-size: 14px; font-family: Arial; font-weight: 400; word-wrap: break-word">+234-xxx-xxx-xxxx</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 50px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Flood Risk Level</div>
+      </div>
+      <div style="align-self: stretch; height: 36px; padding-left: 12px; padding-right: 12px; background: #F3F3F5; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 80.02px; height: 20px; overflow: hidden; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+          <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Medium Risk</div>
+        </div>
+        <div style="width: 16px; height: 16px; position: relative; opacity: 0.50; overflow: hidden">
+          <div style="width: 8px; height: 4px; left: 4px; top: 6px; position: absolute; outline: 1.33px #717182 solid; outline-offset: -0.67px"></div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 36px; justify-content: flex-end; align-items: flex-start; gap: 8px; display: inline-flex">
+      <div style="width: 75.86px; height: 36px; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; background: white; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 8px; display: flex">
+        <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Cancel</div>
+      </div>
+      <div style="width: 169.73px; height: 36px; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; background: #030213; border-radius: 8px; justify-content: center; align-items: center; gap: 8px; display: flex">
+        <div style="color: white; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Add Community Data</div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1px; height: 1px; padding-top: -158px; padding-left: -266.50px; padding-right: 267.50px; left: 24px; top: 108px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Abia</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Adamawa</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Akwa Ibom</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Anambra</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Bauchi</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Bayelsa</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Benue</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Borno</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Cross River</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Delta</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Ebonyi</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Edo</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Ekiti</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Enugu</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Gombe</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Imo</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Jigawa</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Kaduna</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Kano</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Katsina</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Kebbi</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Kogi</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Kwara</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Lagos</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Nasarawa</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Niger</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Ogun</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Ondo</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Osun</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Oyo</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Plateau</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Rivers</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Sokoto</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Taraba</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Yobe</div>
+    <div style="width: 0px; left: 0px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Zamfara</div>
+  </div>
+  <div style="width: 1px; height: 1px; padding-top: -422px; padding-left: -266.50px; padding-right: 267.50px; left: 24px; top: 372px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex"></div>
+  <div style="width: 16px; height: 16px; left: 479px; top: 17px; position: absolute; opacity: 0.70; border-radius: 2px">
+    <div style="width: 16px; height: 16px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+      <div style="width: 8px; height: 8px; left: 4px; top: 4px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      <div style="width: 8px; height: 8px; left: 4px; top: 4px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+    </div>
+    <div style="width: 1px; height: 1px; left: -1px; top: 15px; position: absolute; overflow: hidden">
+      <div style="left: 0px; top: -2px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Close</div>
+    </div>
+  </div>
+</div>
