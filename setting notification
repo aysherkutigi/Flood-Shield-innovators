@@ -1,0 +1,211 @@
+<div style="width: 934px; height: 776px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+  <div style="width: 934px; height: 36px; padding-left: 3px; padding-right: 3px; padding-top: 3.50px; padding-bottom: 3.50px; background: #ECECF0; border-radius: 14px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; height: 29px; padding-right: 0.02px; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 14px; display: inline-flex">
+      <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+        <div style="width: 9.33px; height: 4px; left: 3.33px; top: 10px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+        <div style="width: 5.33px; height: 5.33px; left: 5.33px; top: 2px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      </div>
+      <div style="width: 40.95px; height: 20px; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Profile</div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 29px; padding-right: 0.02px; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 14px; display: inline-flex">
+      <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+        <div style="width: 2.31px; height: 0.67px; left: 6.85px; top: 14px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+        <div style="width: 12px; height: 10px; left: 2px; top: 1.33px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      </div>
+      <div style="width: 81.48px; height: 20px; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Notifications</div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 29px; padding-right: 0.02px; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 14px; display: inline-flex">
+      <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+        <div style="width: 10.67px; height: 13.34px; left: 2.67px; top: 1.33px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      </div>
+      <div style="width: 50.83px; height: 20px; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Security</div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 29px; padding-right: 0.02px; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 14px; display: inline-flex">
+      <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+        <div style="width: 11.94px; height: 13.31px; left: 2.03px; top: 1.34px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+        <div style="width: 4px; height: 4px; left: 6px; top: 6px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+      </div>
+      <div style="width: 73.67px; height: 20px; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Preferences</div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 934px; flex: 1 1 0; position: relative; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px">
+    <div style="width: 884px; height: 20px; left: 25px; top: 25px; position: absolute">
+      <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 2.89px; height: 0.83px; left: 8.56px; top: 17.50px; position: absolute; outline: 1.67px #0A0A0A solid; outline-offset: -0.83px"></div>
+        <div style="width: 15px; height: 12.50px; left: 2.50px; top: 1.67px; position: absolute; outline: 1.67px #0A0A0A solid; outline-offset: -0.83px"></div>
+      </div>
+      <div style="left: 28px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Notification Preferences</div>
+    </div>
+    <div style="width: 932px; height: 656px; padding-left: 24px; padding-right: 24px; left: 1px; top: 75px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+      <div style="align-self: stretch; height: 228px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+        <div style="align-self: stretch; height: 28px; position: relative">
+          <div style="left: 0px; top: -1px; position: absolute; color: #0A0A0A; font-size: 18px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">General Notifications</div>
+        </div>
+        <div style="align-self: stretch; height: 184px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+          <div style="align-self: stretch; height: 34px; justify-content: space-between; align-items: center; display: inline-flex">
+            <div style="width: 216.33px; height: 34px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+              <div style="width: 20px; height: 20px; position: relative; overflow: hidden">
+                <div style="width: 16.67px; height: 5px; left: 1.67px; top: 5.83px; position: absolute; outline: 1.67px #99A1AF solid; outline-offset: -0.83px"></div>
+                <div style="width: 16.67px; height: 13.33px; left: 1.67px; top: 3.33px; position: absolute; outline: 1.67px #99A1AF solid; outline-offset: -0.83px"></div>
+              </div>
+              <div style="flex: 1 1 0; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                  <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Email Notifications</div>
+                </div>
+                <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Receive notifications via email</div>
+                </div>
+              </div>
+            </div>
+            <div style="width: 32px; height: 18.39px; padding-left: 14px; background: #030213; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: flex">
+              <div style="width: 16px; height: 16px; position: relative; background: white; border-radius: 33554400px"></div>
+            </div>
+          </div>
+          <div style="align-self: stretch; height: 34px; justify-content: space-between; align-items: center; display: inline-flex">
+            <div style="width: 211.73px; height: 34px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+              <div style="width: 20px; height: 20px; position: relative; overflow: hidden">
+                <div style="width: 11.67px; height: 16.67px; left: 4.17px; top: 1.67px; position: absolute; outline: 1.67px #99A1AF solid; outline-offset: -0.83px"></div>
+              </div>
+              <div style="flex: 1 1 0; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                  <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">SMS Notifications</div>
+                </div>
+                <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Receive critical alerts via SMS</div>
+                </div>
+              </div>
+            </div>
+            <div style="width: 32px; height: 18.39px; padding-left: 14px; background: #030213; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: flex">
+              <div style="width: 16px; height: 16px; position: relative; background: white; border-radius: 33554400px"></div>
+            </div>
+          </div>
+          <div style="align-self: stretch; height: 34px; justify-content: space-between; align-items: center; display: inline-flex">
+            <div style="width: 194.86px; height: 34px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+              <div style="width: 20px; height: 20px; position: relative; overflow: hidden">
+                <div style="width: 16.67px; height: 11.67px; left: 1.67px; top: 2.50px; position: absolute; outline: 1.67px #99A1AF solid; outline-offset: -0.83px"></div>
+              </div>
+              <div style="flex: 1 1 0; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                  <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Push Notifications</div>
+                </div>
+                <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Browser push notifications</div>
+                </div>
+              </div>
+            </div>
+            <div style="width: 32px; height: 18.39px; padding-left: 14px; background: #030213; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: flex">
+              <div style="width: 16px; height: 16px; position: relative; background: white; border-radius: 33554400px"></div>
+            </div>
+          </div>
+          <div style="align-self: stretch; height: 34px; justify-content: space-between; align-items: center; display: inline-flex">
+            <div style="width: 200.16px; height: 34px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+              <div style="width: 20px; height: 20px; position: relative; overflow: hidden">
+                <div style="width: 7.50px; height: 13.34px; left: 1.67px; top: 3.33px; position: absolute; outline: 1.67px #99A1AF solid; outline-offset: -0.83px"></div>
+                <div style="width: 0.83px; height: 5px; left: 13.33px; top: 7.50px; position: absolute; outline: 1.67px #99A1AF solid; outline-offset: -0.83px"></div>
+                <div style="width: 2.20px; height: 10.61px; left: 16.14px; top: 4.70px; position: absolute; outline: 1.67px #99A1AF solid; outline-offset: -0.83px"></div>
+              </div>
+              <div style="flex: 1 1 0; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                  <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Sound Alerts</div>
+                </div>
+                <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Play sound for notifications</div>
+                </div>
+              </div>
+            </div>
+            <div style="width: 32px; height: 18.39px; padding-left: 14px; background: #030213; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: flex">
+              <div style="width: 16px; height: 16px; position: relative; background: white; border-radius: 33554400px"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; height: 1px; position: relative; background: rgba(0, 0, 0, 0.10)"></div>
+      <div style="align-self: stretch; height: 228px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+        <div style="align-self: stretch; height: 28px; position: relative">
+          <div style="left: 0px; top: -1px; position: absolute; color: #0A0A0A; font-size: 18px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">Alert Types</div>
+        </div>
+        <div style="align-self: stretch; height: 184px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+          <div style="align-self: stretch; height: 34px; justify-content: space-between; align-items: center; display: inline-flex">
+            <div style="width: 218.16px; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Flood Alerts</div>
+              </div>
+              <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Critical flood warnings and updates</div>
+              </div>
+            </div>
+            <div style="width: 32px; height: 18.39px; padding-left: 14px; background: #030213; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: flex">
+              <div style="width: 16px; height: 16px; position: relative; background: white; border-radius: 33554400px"></div>
+            </div>
+          </div>
+          <div style="align-self: stretch; height: 34px; justify-content: space-between; align-items: center; display: inline-flex">
+            <div style="width: 255.03px; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">System Updates</div>
+              </div>
+              <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">System maintenance and feature updates</div>
+              </div>
+            </div>
+            <div style="width: 32px; height: 18.39px; padding-left: 14px; background: #030213; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: flex">
+              <div style="width: 16px; height: 16px; position: relative; background: white; border-radius: 33554400px"></div>
+            </div>
+          </div>
+          <div style="align-self: stretch; height: 34px; justify-content: space-between; align-items: center; display: inline-flex">
+            <div style="width: 252.25px; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Community Messages</div>
+              </div>
+              <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Non-urgent community communications</div>
+              </div>
+            </div>
+            <div style="width: 32px; height: 18.39px; background: #CBCED4; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: flex">
+              <div style="width: 16px; height: 16px; position: relative; background: white; border-radius: 33554400px"></div>
+            </div>
+          </div>
+          <div style="align-self: stretch; height: 34px; justify-content: space-between; align-items: center; display: inline-flex">
+            <div style="width: 228.91px; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Emergency Only Mode</div>
+              </div>
+              <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Only receive critical emergency alerts</div>
+              </div>
+            </div>
+            <div style="width: 32px; height: 18.39px; background: #CBCED4; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: flex">
+              <div style="width: 16px; height: 16px; position: relative; background: white; border-radius: 33554400px"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; height: 1px; position: relative; background: rgba(0, 0, 0, 0.10)"></div>
+      <div style="align-self: stretch; height: 78px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+        <div style="align-self: stretch; height: 28px; position: relative">
+          <div style="left: 0px; top: -1px; position: absolute; color: #0A0A0A; font-size: 18px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">Quiet Hours</div>
+        </div>
+        <div style="align-self: stretch; height: 34px; justify-content: space-between; align-items: center; display: inline-flex">
+          <div style="width: 327.45px; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 14px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 14px; word-wrap: break-word">Enable Quiet Hours</div>
+            </div>
+            <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Suppress non-critical notifications during quiet hours</div>
+            </div>
+          </div>
+          <div style="width: 32px; height: 18.39px; background: #CBCED4; border-radius: 33554400px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: flex">
+            <div style="width: 16px; height: 16px; position: relative; background: white; border-radius: 33554400px"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
