@@ -1,0 +1,879 @@
+<div style="align-self: stretch; align-self: stretch; padding-top: 24px; padding-bottom: 24px; padding-left: 24px; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 30px; display: inline-flex">
+  <div style="width: 884px; height: 32px; justify-content: space-between; align-items: center; display: inline-flex">
+    <div style="width: 192.33px; height: 20px; position: relative">
+      <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 13.33px; height: 16.67px; left: 3.33px; top: 1.67px; position: absolute; outline: 1.67px #0A0A0A solid; outline-offset: -0.83px"></div>
+        <div style="width: 5px; height: 5px; left: 7.50px; top: 5.83px; position: absolute; outline: 1.67px #0A0A0A solid; outline-offset: -0.83px"></div>
+      </div>
+      <div style="left: 28px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Nigeria Flood Risk Map</div>
+    </div>
+    <div style="width: 177.31px; height: 32px; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+      <div style="flex: 1 1 0; height: 32px; padding-left: 12px; padding-right: 12px; background: white; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 6px; display: flex">
+        <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Map View</div>
+      </div>
+      <div style="width: 80.11px; height: 32px; padding-left: 12px; padding-right: 12px; background: #030213; border-radius: 8px; justify-content: center; align-items: center; gap: 6px; display: flex">
+        <div style="color: white; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">List View</div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 884px; flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #DC2626; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 70px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Niger State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">5.6M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 66.80px; height: 22px; left: 21.52px; top: 2px; position: absolute; background: #FFE2E2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #9F0712; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">85% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">3 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; background: #EFF6FF; border-radius: 10px; outline: 1px #2B7FFF solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #DC2626; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 81px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Bayelsa State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">2.3M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 66.80px; height: 22px; left: 21.52px; top: 2px; position: absolute; background: #FFE2E2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #9F0712; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">82% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">4 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #DC2626; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 72px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Rivers State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">7.3M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 66.58px; height: 22px; left: 21.73px; top: 2px; position: absolute; background: #FFE2E2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #9F0712; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">78% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">4 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #DC2626; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 74px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Benue State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">5.7M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 66.58px; height: 22px; left: 21.73px; top: 2px; position: absolute; background: #FFE2E2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #9F0712; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">72% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">3 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #DC2626; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 63px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Kogi State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">4.5M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 66.58px; height: 22px; left: 21.73px; top: 2px; position: absolute; background: #FFE2E2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #9F0712; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">70% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">3 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #DC2626; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 68px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Delta State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">5.7M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 66.83px; height: 22px; left: 21.48px; top: 2px; position: absolute; background: #FFE2E2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #9F0712; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">68% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">2 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 132.06px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #DC2626; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 105px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Akwa Ibom State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">5.5M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 66.83px; height: 22px; left: 21.48px; top: 2px; position: absolute; background: #FFE2E2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #9F0712; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">65% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">2 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 130.89px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #DC2626; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 103px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Cross River State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">3.7M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 66.83px; height: 22px; left: 21.48px; top: 2px; position: absolute; background: #FFE2E2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #9F0712; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">63% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">2 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 82px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Kaduna State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">8.3M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 66.80px; height: 22px; left: 21.52px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">55% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">2 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 81px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Plateau State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">4.2M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 66.80px; height: 22px; left: 21.52px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">52% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">2 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 76px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Bauchi State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">6.5M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 66.80px; height: 22px; left: 21.52px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">50% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">1 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 122.66px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 95px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Nasarawa State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">2.5M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 67.09px; height: 22px; left: 21.22px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 50px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">49% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">2 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 72px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Kwara State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">3.2M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 67.05px; height: 22px; left: 21.27px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 50px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">48% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">2 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 75px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Taraba State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">2.3M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 67.09px; height: 22px; left: 21.22px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 50px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">46% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">1 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 121.83px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 71px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Lagos State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 94px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">14.9M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 67.05px; height: 22px; left: 21.27px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 50px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">45% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">1 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 70px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Kebbi State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">4.4M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 67.05px; height: 22px; left: 21.27px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 50px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">45% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">2 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 63px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Abia State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">3.7M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 67.30px; height: 22px; left: 21.02px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 50px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">44% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">1 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 125.14px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 98px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">FCT Abuja State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">3.6M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 67.30px; height: 22px; left: 21.02px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 50px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">44% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">1 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 59px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Imo State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">5.4M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 67.05px; height: 22px; left: 21.27px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 50px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">42% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">1 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 59px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Edo State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">4.2M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 65.22px; height: 22px; left: 23.09px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 48px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">41% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">1 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 80px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Katsina State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">7.8M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 67.05px; height: 22px; left: 21.27px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 50px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">40% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">1 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 119.12px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 92px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Anambra State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">5.5M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 66.80px; height: 22px; left: 21.52px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">38% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">1 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 86px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Zamfara State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">4.5M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 66.80px; height: 22px; left: 21.52px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">38% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">1 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 78px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 44px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #F59E0B; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 70px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Ogun State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">5.2M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 88.31px; height: 44px; position: relative">
+          <div style="width: 66.80px; height: 22px; left: 21.52px; top: 2px; position: absolute; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+            <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">35% Risk</div>
+          </div>
+          <div style="width: 88.31px; height: 16px; left: 0px; top: 28px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+              <div style="width: 10.01px; height: 9.01px; left: 0.99px; top: 1.49px; position: absolute; outline: 1px #E7000B solid; outline-offset: -0.50px"></div>
+            </div>
+            <div style="width: 73px; left: 16px; top: -1px; position: absolute; text-align: right; color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">1 active alerts</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 70px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 36px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #22C55E; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 76px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Jigawa State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">5.8M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 66.80px; height: 22px; position: relative; background: #DCFCE7; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+          <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #016630; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">30% Risk</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 70px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 36px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 123.59px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #22C55E; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 96px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Adamawa State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">4.2M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 66.80px; height: 22px; position: relative; background: #DCFCE7; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+          <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #016630; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">30% Risk</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 70px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 36px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #22C55E; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 70px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Ondo State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">4.7M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 66.80px; height: 22px; position: relative; background: #DCFCE7; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+          <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #016630; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">28% Risk</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 70px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 36px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #22C55E; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 77px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Ebonyi State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">2.2M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 66.58px; height: 22px; position: relative; background: #DCFCE7; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+          <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #016630; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">27% Risk</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 70px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 36px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #22C55E; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 81px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Gombe State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">3.3M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 66.83px; height: 22px; position: relative; background: #DCFCE7; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+          <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #016630; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">26% Risk</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 70px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 36px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #22C55E; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 61px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Oyo State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">7.8M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 66.80px; height: 22px; position: relative; background: #DCFCE7; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+          <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #016630; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">25% Risk</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 70px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 36px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #22C55E; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 74px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Enugu State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">4.4M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 66.80px; height: 22px; position: relative; background: #DCFCE7; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+          <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #016630; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">25% Risk</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 70px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 36px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #22C55E; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 61px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Ekiti State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">3.3M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 66.80px; height: 22px; position: relative; background: #DCFCE7; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+          <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #016630; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">23% Risk</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 70px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 36px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #22C55E; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 68px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Osun State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">4.7M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 66.80px; height: 22px; position: relative; background: #DCFCE7; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+          <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #016630; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">22% Risk</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 70px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 36px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 121.83px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #22C55E; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 67px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Kano State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 94px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">13.1M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 66.80px; height: 22px; position: relative; background: #DCFCE7; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+          <div style="width: 49px; left: 9px; top: 2px; position: absolute; text-align: right; color: #016630; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">20% Risk</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 70px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 36px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #22C55E; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 66px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Yobe State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">2.8M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 65px; height: 22px; position: relative; background: #DCFCE7; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+          <div style="width: 47px; left: 9px; top: 2px; position: absolute; text-align: right; color: #016630; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">19% Risk</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 70px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 36px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #22C55E; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 79px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Sokoto State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">5.0M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 64.97px; height: 22px; position: relative; background: #DCFCE7; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+          <div style="width: 47px; left: 9px; top: 2px; position: absolute; text-align: right; color: #016630; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">18% Risk</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 70px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; border-radius: 10px; outline: 1px #E5E7EB solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 36px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 115.36px; height: 36px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 16px; height: 16px; position: relative; background: #22C55E; border-radius: 33554400px"></div>
+          <div style="flex: 1 1 0; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; position: relative">
+              <div style="width: 72px; left: 0px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Borno State</div>
+            </div>
+            <div style="align-self: stretch; height: 16px; position: relative">
+              <div style="width: 88px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">5.9M population</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 64.97px; height: 22px; position: relative; background: #DCFCE7; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px">
+          <div style="width: 47px; left: 9px; top: 2px; position: absolute; text-align: right; color: #016630; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">15% Risk</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
