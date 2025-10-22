@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="AI Flood Alert System – A smart platform providing real-time flood predictions, alerts, and safety tips for communities." />
+  <title>AI Flood Alert System</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <!-- Navigation -->
+  <header>
+    <nav class="navbar">
+      <div class="logo">🌊 AI Flood Alert</div>
+      <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#alerts">Live Alerts</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section id="home" class="hero">
+    <h1>Stay Ahead of the Flood</h1>
+    <p>Get real-time flood alerts powered by AI and weather data analytics.</p>
+    <a href="#alerts" class="btn-primary">Check Alerts</a>
+  </section>
+
+  <!-- About Section -->
+  <section id="about" class="about">
+    <h2>About the Project</h2>
+    <p>
+      The AI Flood Alert System is designed to predict potential flooding and
+      notify communities early using machine learning and satellite data.
+    </p>
+  </section>
+
+  <!-- Features Section -->
+  <section id="features" class="features">
+    <h2>Key Features</h2>
+    <div class="feature-grid">
+      <div class="feature-item">
+        <h3>AI Predictions</h3>
+        <p>Advanced algorithms predict flood risks in real-time.</p>
+      </div>
+      <div class="feature-item">
+        <h3>Live Alerts</h3>
+        <p>Instant notifications for at-risk regions.</p>
+      </div>
+      <div class="feature-item">
+        <h3>Community Dashboard</h3>
+        <p>Interactive map and safety tips for residents.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Alerts Section -->
+  <section id="alerts" class="alerts">
+    <h2>Live Flood Alerts</h2>
+    <div id="alertContainer">Loading current data...</div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:info@aifloodalert.org">info@aifloodalert.org</a></p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 AI Flood Alert System | Built with ❤️ by Aisha Adamu Kutigi</p>
+  </footer>
+</body>
+</html>
