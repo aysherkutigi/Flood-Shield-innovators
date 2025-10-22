@@ -1,0 +1,688 @@
+<div style="width: 982px; height: 1560px; position: relative; background: white">
+  <div style="width: 982px; height: 1559.50px; left: 0px; top: 0px; position: absolute; background: #F9FAFB; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+    <div style="align-self: stretch; height: 65px; padding-bottom: 1px; padding-left: 24px; padding-right: 24px; background: white; box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.10); border-bottom: 1px rgba(0, 0, 0, 0.10) solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="align-self: stretch; height: 64px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 171.48px; height: 32px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="width: 32px; height: 32px; background: #155DFC; border-radius: 10px; justify-content: center; align-items: center; display: flex">
+            <div style="width: 21.97px; height: 24px; position: relative">
+              <div style="left: 0px; top: -2px; position: absolute; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">🌊</div>
+            </div>
+          </div>
+          <div style="flex: 1 1 0; height: 28px; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="color: #101828; font-size: 20px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">FloodGuard AI</div>
+          </div>
+        </div>
+        <div style="width: 347.95px; height: 32px; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div style="flex: 1 1 0; height: 32px; background: white; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 14px; display: flex">
+            <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+              <div style="width: 13.33px; height: 13.33px; left: 1.33px; top: 1.33px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+              <div style="width: 5.33px; height: 13.33px; left: 5.33px; top: 1.33px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+            </div>
+            <div style="width: 14.19px; height: 20px; justify-content: flex-start; align-items: flex-start; display: flex">
+              <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">🇬🇧</div>
+            </div>
+            <div style="width: 18px; height: 20px; justify-content: flex-start; align-items: flex-start; display: flex">
+              <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">EN</div>
+            </div>
+            <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+              <div style="width: 8px; height: 4px; left: 4px; top: 6px; position: absolute; outline: 1.33px #0A0A0A solid; outline-offset: -0.67px"></div>
+            </div>
+          </div>
+          <div style="width: 67.75px; height: 32px; padding-left: 12px; padding-right: 12px; background: white; border-radius: 8px; outline: 2px #D1D5DC solid; outline-offset: -2px; justify-content: center; align-items: center; gap: 6px; display: flex">
+            <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Log In</div>
+          </div>
+          <div style="width: 78.02px; height: 32px; padding-left: 12px; padding-right: 12px; background: #9810FA; border-radius: 8px; outline: 2px #9810FA solid; outline-offset: -2px; justify-content: center; align-items: center; gap: 6px; display: flex">
+            <div style="color: white; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Sign Up</div>
+          </div>
+          <div style="width: 38px; height: 32px; background: white; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; justify-content: center; align-items: center; display: flex">
+            <div style="width: 16px; height: 16px; position: relative; overflow: hidden"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 1430.50px; padding-left: 24px; padding-right: 24px; background: #F9FAFB; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+      <div style="align-self: stretch; height: 68px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="width: 586.36px; height: 68px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+          <div style="align-self: stretch; height: 36px; position: relative">
+            <div style="left: 0px; top: -3px; position: absolute; color: #101828; font-size: 30px; font-family: Arial; font-weight: 400; line-height: 36px; word-wrap: break-word">FloodGuard Nigeria Dashboard</div>
+          </div>
+          <div style="align-self: stretch; height: 24px; position: relative">
+            <div style="left: 0px; top: -2px; position: absolute; color: #4A5565; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Real-time flood monitoring and population management for Nigerian communities</div>
+          </div>
+        </div>
+        <div style="width: 189.27px; height: 44px; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+          <div style="width: 85.17px; height: 44px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="text-align: right; color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">System Status</div>
+            </div>
+            <div style="align-self: stretch; height: 24px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div style="width: 12px; height: 12px; position: relative; background: #00C950; border-radius: 33554400px"></div>
+              <div style="width: 46.30px; height: 24px; position: relative">
+                <div style="left: 0px; top: -2px; position: absolute; text-align: right; color: #00A63E; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Online</div>
+              </div>
+            </div>
+          </div>
+          <div style="flex: 1 1 0; height: 40px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="text-align: right; color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Last Updated</div>
+            </div>
+            <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="text-align: right; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">2 minutes ago</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; height: 59.50px; border-bottom: 1px black solid; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+        <div style="width: 77.80px; height: 59.50px; position: relative; border-bottom: 2px rgba(0, 0, 0, 0) solid">
+          <div style="width: 20px; height: 20px; left: 4px; top: 9.50px; position: absolute; overflow: hidden">
+            <div style="width: 16.67px; height: 16.67px; left: 1.67px; top: 1.67px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+          </div>
+          <div style="left: 4px; top: 27.50px; position: absolute; color: #6A7282; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Overview</div>
+        </div>
+        <div style="width: 93.89px; height: 59.50px; position: relative; border-bottom: 2px #2B7FFF solid">
+          <div style="width: 20px; height: 20px; left: 4px; top: 9.50px; position: absolute; overflow: hidden">
+            <div style="width: 13.33px; height: 16.67px; left: 3.33px; top: 1.67px; position: absolute; outline: 1.67px #155DFC solid; outline-offset: -0.83px"></div>
+            <div style="width: 5px; height: 5px; left: 7.50px; top: 5.83px; position: absolute; outline: 1.67px #155DFC solid; outline-offset: -0.83px"></div>
+          </div>
+          <div style="width: 73px; left: 4px; top: 6px; position: absolute; color: #155DFC; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Nigeria Map</div>
+        </div>
+        <div style="width: 112.38px; height: 59.50px; position: relative; border-bottom: 2px rgba(0, 0, 0, 0) solid">
+          <div style="width: 20px; height: 20px; left: 4px; top: 9.50px; position: absolute; overflow: hidden">
+            <div style="width: 11.67px; height: 5px; left: 1.67px; top: 12.50px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+            <div style="width: 2.50px; height: 6.45px; left: 13.33px; top: 2.61px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+            <div style="width: 2.50px; height: 4.89px; left: 15.83px; top: 12.61px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+            <div style="width: 6.67px; height: 6.67px; left: 4.17px; top: 2.50px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+          </div>
+          <div style="width: 95px; left: 4px; top: 6px; position: absolute; color: #6A7282; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Population Data</div>
+        </div>
+        <div style="width: 94.81px; height: 59.50px; position: relative; border-bottom: 2px rgba(0, 0, 0, 0) solid">
+          <div style="width: 20px; height: 20px; left: 4px; top: 9.50px; position: absolute; overflow: hidden">
+            <div style="width: 6.67px; height: 9.17px; left: 2.50px; top: 4.42px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+            <div style="width: 9.93px; height: 15.84px; left: 7.57px; top: 2.52px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+          </div>
+          <div style="width: 65px; left: 4px; top: 6px; position: absolute; color: #6A7282; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Water Levels</div>
+        </div>
+        <div style="width: 94.06px; height: 59.50px; position: relative; border-bottom: 2px rgba(0, 0, 0, 0) solid">
+          <div style="width: 20px; height: 20px; left: 4px; top: 9.50px; position: absolute; overflow: hidden">
+            <div style="width: 2.89px; height: 0.83px; left: 8.56px; top: 17.50px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+            <div style="width: 15px; height: 12.50px; left: 2.50px; top: 1.67px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+          </div>
+          <div style="width: 66px; left: 4px; top: 6px; position: absolute; color: #6A7282; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Active Alerts</div>
+        </div>
+        <div style="width: 95.36px; height: 59.50px; position: relative; border-bottom: 2px rgba(0, 0, 0, 0) solid">
+          <div style="width: 20px; height: 20px; left: 4px; top: 9.50px; position: absolute; overflow: hidden">
+            <div style="width: 14.93px; height: 16.64px; left: 2.54px; top: 1.68px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+            <div style="width: 5px; height: 5px; left: 7.50px; top: 7.50px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+          </div>
+          <div style="left: 4px; top: 27.50px; position: absolute; color: #6A7282; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Notifications</div>
+        </div>
+        <div style="width: 69.83px; height: 59.50px; position: relative; border-bottom: 2px rgba(0, 0, 0, 0) solid">
+          <div style="width: 20px; height: 20px; left: 4px; top: 9.50px; position: absolute; overflow: hidden">
+            <div style="width: 13.33px; height: 16.67px; left: 3.33px; top: 1.67px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+            <div style="width: 5px; height: 5px; left: 11.67px; top: 1.67px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+          </div>
+          <div style="left: 4px; top: 27.50px; position: absolute; color: #6A7282; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Reports</div>
+        </div>
+        <div style="width: 71.86px; height: 59.50px; position: relative; border-bottom: 2px rgba(0, 0, 0, 0) solid">
+          <div style="width: 20px; height: 20px; left: 4px; top: 9.50px; position: absolute; overflow: hidden">
+            <div style="width: 11.67px; height: 5px; left: 4.17px; top: 12.50px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+            <div style="width: 6.67px; height: 6.67px; left: 6.67px; top: 2.50px; position: absolute; outline: 1.67px #6A7282 solid; outline-offset: -0.83px"></div>
+          </div>
+          <div style="left: 4px; top: 27.50px; position: absolute; color: #6A7282; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Settings</div>
+        </div>
+      </div>
+      <div style="align-self: stretch; height: 1239px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+        <div style="align-self: stretch; height: 86px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="align-self: stretch; align-self: stretch; padding-top: 16px; padding-bottom: 16px; padding-left: 16px; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="width: 187.50px; flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div style="width: 20px; height: 20px; position: relative; overflow: hidden">
+                <div style="width: 16.68px; height: 15.01px; left: 1.65px; top: 2.49px; position: absolute; outline: 1.67px #E7000B solid; outline-offset: -0.83px"></div>
+              </div>
+              <div style="width: 98.70px; height: 52px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">High Risk States</div>
+                </div>
+                <div style="align-self: stretch; height: 32px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="flex: 1 1 0; color: #E7000B; font-size: 24px; font-family: Arial; font-weight: 400; line-height: 32px; word-wrap: break-word">8</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="align-self: stretch; align-self: stretch; padding-top: 16px; padding-bottom: 16px; padding-left: 16px; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="width: 187.50px; flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div style="width: 20px; height: 20px; position: relative; overflow: hidden">
+                <div style="width: 11.67px; height: 5px; left: 1.67px; top: 12.50px; position: absolute; outline: 1.67px #155DFC solid; outline-offset: -0.83px"></div>
+                <div style="width: 2.50px; height: 6.45px; left: 13.33px; top: 2.61px; position: absolute; outline: 1.67px #155DFC solid; outline-offset: -0.83px"></div>
+                <div style="width: 2.50px; height: 4.89px; left: 15.83px; top: 12.61px; position: absolute; outline: 1.67px #155DFC solid; outline-offset: -0.83px"></div>
+                <div style="width: 6.67px; height: 6.67px; left: 4.17px; top: 2.50px; position: absolute; outline: 1.67px #155DFC solid; outline-offset: -0.83px"></div>
+              </div>
+              <div style="width: 110.66px; height: 52px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Population at Risk</div>
+                </div>
+                <div style="align-self: stretch; height: 32px; position: relative">
+                  <div style="width: 66px; left: 0px; top: -2px; position: absolute; color: #155DFC; font-size: 24px; font-family: Arial; font-weight: 400; line-height: 32px; word-wrap: break-word">66.1M</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="align-self: stretch; align-self: stretch; padding-top: 16px; padding-bottom: 16px; padding-left: 16px; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="width: 187.50px; flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div style="width: 20px; height: 20px; position: relative; overflow: hidden">
+                <div style="width: 13.33px; height: 16.67px; left: 3.33px; top: 1.67px; position: absolute; outline: 1.67px #F54900 solid; outline-offset: -0.83px"></div>
+                <div style="width: 5px; height: 5px; left: 7.50px; top: 5.83px; position: absolute; outline: 1.67px #F54900 solid; outline-offset: -0.83px"></div>
+              </div>
+              <div style="width: 76.80px; height: 52px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Active Alerts</div>
+                </div>
+                <div style="align-self: stretch; height: 32px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="flex: 1 1 0; color: #F54900; font-size: 24px; font-family: Arial; font-weight: 400; line-height: 32px; word-wrap: break-word">44</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="align-self: stretch; align-self: stretch; padding-top: 16px; padding-bottom: 16px; padding-left: 16px; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="width: 187.50px; flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+              <div style="width: 20px; height: 20px; position: relative; overflow: hidden">
+                <div style="width: 5px; height: 5px; left: 13.33px; top: 5.83px; position: absolute; outline: 1.67px #00A63E solid; outline-offset: -0.83px"></div>
+                <div style="width: 16.67px; height: 8.33px; left: 1.67px; top: 5.83px; position: absolute; outline: 1.67px #00A63E solid; outline-offset: -0.83px"></div>
+              </div>
+              <div style="width: 106.17px; height: 52px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="align-self: stretch; height: 20px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">States Monitored</div>
+                </div>
+                <div style="align-self: stretch; height: 32px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="flex: 1 1 0; color: #00A63E; font-size: 24px; font-family: Arial; font-weight: 400; line-height: 32px; word-wrap: break-word">37</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="align-self: stretch; height: 1129px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 934px; height: 612px; position: relative; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px">
+            <div style="width: 884px; height: 32px; left: 25px; top: 25px; position: absolute; justify-content: space-between; align-items: center; display: inline-flex">
+              <div style="width: 192.33px; height: 20px; position: relative">
+                <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 13.33px; height: 16.67px; left: 3.33px; top: 1.67px; position: absolute; outline: 1.67px #0A0A0A solid; outline-offset: -0.83px"></div>
+                  <div style="width: 5px; height: 5px; left: 7.50px; top: 5.83px; position: absolute; outline: 1.67px #0A0A0A solid; outline-offset: -0.83px"></div>
+                </div>
+                <div style="left: 28px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Nigeria Flood Risk Map</div>
+              </div>
+              <div style="width: 177.31px; height: 32px; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+                <div style="flex: 1 1 0; height: 32px; padding-left: 12px; padding-right: 12px; background: #030213; border-radius: 8px; justify-content: center; align-items: center; gap: 6px; display: flex">
+                  <div style="color: white; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Map View</div>
+                </div>
+                <div style="width: 82.11px; height: 32px; padding-left: 12px; padding-right: 12px; background: white; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 6px; display: flex">
+                  <div style="color: #0A0A0A; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">List View</div>
+                </div>
+              </div>
+            </div>
+            <img style="width: 868px; height: 459px; left: 28px; top: 111.50px; position: absolute; border-radius: 5px" src="https://placehold.co/868x459" />
+            <div style="width: 17.36px; height: 15.30px; left: 283.10px; top: 191.12px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 240.74px; top: 237.07px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 303.73px; top: 301.39px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 268.98px; top: 330.48px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 214.68px; top: 351.16px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 203.82px; top: 392.50px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 274.41px; top: 379.49px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 308.07px; top: 397.86px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 305.90px; top: 431.55px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 321.11px; top: 452.99px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 358.03px; top: 456.06px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 381.92px; top: 397.86px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 398.21px; top: 450.70px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 437.31px; top: 418.54px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 427.53px; top: 377.19px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 353.50px; top: 362.14px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 288.40px; top: 357.61px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 376.49px; top: 319px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 407.99px; top: 333.54px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 474.23px; top: 314.40px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 390.61px; top: 275.35px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 383.01px; top: 213.33px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 328.71px; top: 232.47px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 435.13px; top: 234.77px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 473.14px; top: 219.46px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 540.48px; top: 205.67px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 497.04px; top: 279.95px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 551.34px; top: 283.01px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 615.41px; top: 244.72px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 595.86px; top: 299.09px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 531.79px; top: 349.62px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 406.90px; top: 406.29px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 386.27px; top: 428.49px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 362.37px; top: 430.79px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 355.86px; top: 411.65px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #E7000B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 197.31px; top: 381.18px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #F59E0B"></div>
+              </div>
+            </div>
+            <div style="width: 17.36px; height: 15.30px; left: 249.34px; top: 366.67px; position: absolute; border-radius: 5px">
+              <div style="width: 16px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 14.91px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+                <div style="width: 7.46px; height: 19.12px; left: 0.11px; top: 0.20px; position: absolute; background: #22C55E"></div>
+              </div>
+            </div>
+            <div style="width: 140.70px; height: 98px; padding-top: 13px; padding-bottom: 1px; padding-left: 13px; padding-right: 14.94px; left: 28px; top: 131.50px; position: absolute; background: white; box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10); border-radius: 10px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+              <div style="align-self: stretch; height: 32px; position: relative; background: #030213; border-radius: 8px">
+                <div style="width: 16px; height: 16px; left: 10px; top: 8px; position: absolute; overflow: hidden">
+                  <div style="width: 13.33px; height: 9.33px; left: 1.33px; top: 3.33px; position: absolute; outline: 1.33px white solid; outline-offset: -0.67px"></div>
+                  <div style="width: 4px; height: 4px; left: 6px; top: 6px; position: absolute; outline: 1.33px white solid; outline-offset: -0.67px"></div>
+                </div>
+                <div style="left: 36px; top: 7px; position: absolute; color: white; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Risk Overlay</div>
+              </div>
+              <div style="align-self: stretch; height: 32px; position: relative; background: #030213; border-radius: 8px">
+                <div style="width: 16px; height: 16px; left: 10px; top: 8px; position: absolute; overflow: hidden">
+                  <div style="width: 13.33px; height: 9.33px; left: 1.33px; top: 3.33px; position: absolute; outline: 1.33px white solid; outline-offset: -0.67px"></div>
+                  <div style="width: 4px; height: 4px; left: 6px; top: 6px; position: absolute; outline: 1.33px white solid; outline-offset: -0.67px"></div>
+                </div>
+                <div style="left: 36px; top: 7px; position: absolute; color: white; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Active Alerts</div>
+              </div>
+            </div>
+            <div style="width: 129.31px; height: 148px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; left: 738px; top: 113.50px; position: absolute; background: white; box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10); border-radius: 10px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+              <div style="align-self: stretch; height: 20px; position: relative">
+                <div style="width: 16px; height: 16px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+                  <div style="width: 10.67px; height: 13.33px; left: 2.67px; top: 1.33px; position: absolute; outline: 1.33px #101828 solid; outline-offset: -0.67px"></div>
+                  <div style="width: 4px; height: 4px; left: 6px; top: 4.67px; position: absolute; outline: 1.33px #101828 solid; outline-offset: -0.67px"></div>
+                </div>
+                <div style="width: 72px; left: 24px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Niger State</div>
+              </div>
+              <div style="align-self: stretch; height: 86px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+                <div style="align-self: stretch; height: 22px; justify-content: space-between; align-items: center; display: inline-flex">
+                  <div style="width: 53.89px; height: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <div style="color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Risk Level:</div>
+                  </div>
+                  <div style="width: 41.42px; height: 22px; padding-left: 8px; padding-right: 8px; padding-top: 2px; padding-bottom: 2px; background: #FFE2E2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 4px; display: flex">
+                    <div style="color: #9F0712; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">85%</div>
+                  </div>
+                </div>
+                <div style="align-self: stretch; height: 16px; justify-content: space-between; align-items: flex-start; display: inline-flex">
+                  <div style="width: 59.56px; height: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <div style="color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Population:</div>
+                  </div>
+                  <div style="width: 27.36px; height: 16px; position: relative">
+                    <div style="width: 28px; left: 0px; top: -1px; position: absolute; color: #0A0A0A; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">5.6M</div>
+                  </div>
+                </div>
+                <div style="align-self: stretch; height: 16px; justify-content: space-between; align-items: flex-start; display: inline-flex">
+                  <div style="width: 68.42px; height: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <div style="color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Active Alerts:</div>
+                  </div>
+                  <div style="width: 6.67px; height: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <div style="color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">3</div>
+                  </div>
+                </div>
+                <div style="align-self: stretch; height: 8px; padding-right: 14.30px; background: #E5E7EB; border-radius: 33554400px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                  <div style="align-self: stretch; height: 8px; position: relative; background: #DC2626; border-radius: 33554400px"></div>
+                </div>
+              </div>
+            </div>
+            <div style="width: 320px; height: 216px; padding-top: 17px; padding-bottom: 1px; padding-left: 17px; padding-right: 17px; left: 22px; top: 358.50px; position: absolute; background: white; box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10); border-radius: 10px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+              <div style="align-self: stretch; height: 20px; position: relative">
+                <div style="width: 16px; height: 16px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+                  <div style="width: 13.33px; height: 1.33px; left: 1.33px; top: 3.33px; position: absolute; outline: 1.33px #155DFC solid; outline-offset: -0.67px"></div>
+                  <div style="width: 13.33px; height: 1.33px; left: 1.33px; top: 7.33px; position: absolute; outline: 1.33px #155DFC solid; outline-offset: -0.67px"></div>
+                  <div style="width: 13.33px; height: 1.33px; left: 1.33px; top: 11.33px; position: absolute; outline: 1.33px #155DFC solid; outline-offset: -0.67px"></div>
+                </div>
+                <div style="left: 24px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Flood Risk Levels</div>
+              </div>
+              <div style="align-self: stretch; height: 97px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+                <div style="align-self: stretch; height: 16px; justify-content: space-between; align-items: center; display: inline-flex">
+                  <div style="width: 125.98px; height: 16px; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+                    <div style="width: 16px; height: 16px; position: relative; background: #FB2C36; border-radius: 33554400px"></div>
+                    <div style="flex: 1 1 0; height: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+                      <div style="color: #364153; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Critical Risk (≥70%)</div>
+                    </div>
+                  </div>
+                  <div style="width: 6.67px; height: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <div style="color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">8</div>
+                  </div>
+                </div>
+                <div style="align-self: stretch; height: 16px; justify-content: space-between; align-items: center; display: inline-flex">
+                  <div style="width: 151.22px; height: 16px; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+                    <div style="width: 16px; height: 16px; position: relative; background: #F0B100; border-radius: 33554400px"></div>
+                    <div style="flex: 1 1 0; height: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+                      <div style="color: #364153; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Moderate Risk (40-69%)</div>
+                    </div>
+                  </div>
+                  <div style="width: 11.53px; height: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <div style="color: #D08700; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">16</div>
+                  </div>
+                </div>
+                <div style="align-self: stretch; height: 16px; justify-content: space-between; align-items: center; display: inline-flex">
+                  <div style="width: 111.28px; height: 16px; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+                    <div style="width: 16px; height: 16px; position: relative; background: #00C950; border-radius: 33554400px"></div>
+                    <div style="flex: 1 1 0; height: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+                      <div style="color: #364153; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Low Risk (<40%)</div>
+                    </div>
+                  </div>
+                  <div style="width: 11.50px; height: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <div style="color: #00A63E; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">13</div>
+                  </div>
+                </div>
+                <div style="align-self: stretch; height: 25px; padding-top: 9px; border-top: 1px rgba(0, 0, 0, 0.10) solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                  <div style="align-self: stretch; height: 16px; justify-content: space-between; align-items: center; display: inline-flex">
+                    <div style="width: 89.83px; height: 16px; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+                      <div style="width: 16px; height: 16px; position: relative; opacity: 0.78; background: #E7000B; border-radius: 33554400px"></div>
+                      <div style="flex: 1 1 0; height: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+                        <div style="color: #364153; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Active Alerts</div>
+                      </div>
+                    </div>
+                    <div style="width: 13.83px; height: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+                      <div style="color: #E7000B; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">44</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div style="align-self: stretch; height: 41px; padding-top: 9px; border-top: 1px rgba(0, 0, 0, 0.10) solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                <div style="align-self: stretch; height: 32px; position: relative">
+                  <div style="width: 133.31px; height: 16px; left: 0px; top: 0px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="color: #6A7282; font-size: 12px; font-family: Arial; font-weight: 700; line-height: 16px; word-wrap: break-word">Flood Guard Innovators</div>
+                  </div>
+                  <div style="width: 239px; left: 0px; top: -1px; position: absolute; color: #6A7282; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">- AI-powered flood prediction system</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="align-self: stretch; align-self: stretch; padding-top: 24px; padding-bottom: 24px; padding-left: 24px; background: white; border-radius: 14px; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 30px; display: inline-flex">
+            <div style="width: 884px; height: 20px; position: relative">
+              <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                <div style="width: 11.67px; height: 5px; left: 1.67px; top: 12.50px; position: absolute; outline: 1.67px #0A0A0A solid; outline-offset: -0.83px"></div>
+                <div style="width: 2.50px; height: 6.45px; left: 13.33px; top: 2.61px; position: absolute; outline: 1.67px #0A0A0A solid; outline-offset: -0.83px"></div>
+                <div style="width: 2.50px; height: 4.89px; left: 15.83px; top: 12.61px; position: absolute; outline: 1.67px #0A0A0A solid; outline-offset: -0.83px"></div>
+                <div style="width: 6.67px; height: 6.67px; left: 4.17px; top: 2.50px; position: absolute; outline: 1.67px #0A0A0A solid; outline-offset: -0.83px"></div>
+              </div>
+              <div style="left: 28px; top: 0px; position: absolute; color: #0A0A0A; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Niger State Details</div>
+            </div>
+            <div style="width: 884px; flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+              <div style="align-self: stretch; height: 94px; padding-top: 16px; padding-left: 16px; padding-right: 16px; background: #F9FAFB; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+                <div style="align-self: stretch; height: 22px; justify-content: space-between; align-items: center; display: inline-flex">
+                  <div style="width: 109.98px; height: 20px; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <div style="color: #4A5565; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Current Risk Level</div>
+                  </div>
+                  <div style="width: 47.52px; height: 22px; padding-left: 8px; padding-right: 8px; padding-top: 2px; padding-bottom: 2px; background: #FFE2E2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 4px; display: flex">
+                    <div style="color: #9F0712; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">HIGH</div>
+                  </div>
+                </div>
+                <div style="align-self: stretch; height: 12px; padding-right: 127.81px; background: #E5E7EB; border-radius: 33554400px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                  <div style="align-self: stretch; height: 12px; position: relative; background: #DC2626; border-radius: 33554400px"></div>
+                </div>
+                <div style="align-self: stretch; height: 16px; position: relative">
+                  <div style="width: 115px; left: 0px; top: -1px; position: absolute; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">85% flood probability</div>
+                </div>
+              </div>
+              <div style="align-self: stretch; height: 96px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="width: 434px; height: 96px; position: relative; background: #EFF6FF; border-radius: 10px">
+                  <div style="width: 24px; height: 24px; left: 205px; top: 12px; position: absolute; overflow: hidden">
+                    <div style="width: 14px; height: 6px; left: 2px; top: 15px; position: absolute; outline: 2px #155DFC solid; outline-offset: -1px"></div>
+                    <div style="width: 3px; height: 7.74px; left: 16px; top: 3.13px; position: absolute; outline: 2px #155DFC solid; outline-offset: -1px"></div>
+                    <div style="width: 3px; height: 5.87px; left: 19px; top: 15.13px; position: absolute; outline: 2px #155DFC solid; outline-offset: -1px"></div>
+                    <div style="width: 8px; height: 8px; left: 5px; top: 3px; position: absolute; outline: 2px #155DFC solid; outline-offset: -1px"></div>
+                  </div>
+                  <div style="width: 410px; height: 28px; left: 12px; top: 40px; position: absolute">
+                    <div style="width: 40px; left: 185.25px; top: -1px; position: absolute; text-align: center; color: #155DFC; font-size: 18px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">5.6M</div>
+                  </div>
+                  <div style="width: 410px; height: 16px; left: 12px; top: 68px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="flex: 1 1 0; text-align: center; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Population</div>
+                  </div>
+                </div>
+                <div style="width: 434px; height: 96px; position: relative; background: #FFF7ED; border-radius: 10px">
+                  <div style="width: 24px; height: 24px; left: 205px; top: 12px; position: absolute; overflow: hidden">
+                    <div style="width: 20.02px; height: 18.01px; left: 1.98px; top: 2.99px; position: absolute; outline: 2px #F54900 solid; outline-offset: -1px"></div>
+                  </div>
+                  <div style="width: 410px; height: 28px; left: 12px; top: 40px; position: absolute">
+                    <div style="left: 200.14px; top: -1px; position: absolute; text-align: center; color: #F54900; font-size: 18px; font-family: Arial; font-weight: 400; line-height: 28px; word-wrap: break-word">3</div>
+                  </div>
+                  <div style="width: 410px; height: 16px; left: 12px; top: 68px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="flex: 1 1 0; text-align: center; color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Active Alerts</div>
+                  </div>
+                </div>
+              </div>
+              <div style="align-self: stretch; height: 102px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+                <div style="align-self: stretch; height: 20px; position: relative">
+                  <div style="width: 16px; height: 16px; left: 0px; top: 2px; position: absolute; overflow: hidden">
+                    <div style="width: 10.67px; height: 13.33px; left: 2.67px; top: 1.33px; position: absolute; outline: 1.33px #101828 solid; outline-offset: -0.67px"></div>
+                    <div style="width: 4px; height: 4px; left: 6px; top: 4.67px; position: absolute; outline: 1.33px #101828 solid; outline-offset: -0.67px"></div>
+                  </div>
+                  <div style="left: 24px; top: -2px; position: absolute; color: #101828; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Key Areas at Risk:</div>
+                </div>
+                <div style="align-self: stretch; height: 74px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+                  <div style="align-self: stretch; height: 22px; justify-content: space-between; align-items: flex-start; display: inline-flex">
+                    <div style="width: 62.50px; height: 22px; justify-content: flex-start; align-items: flex-start; display: flex">
+                      <div style="color: #0A0A0A; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Bosso Ward</div>
+                    </div>
+                    <div style="width: 69.56px; height: 22px; padding-left: 8px; padding-right: 8px; padding-top: 2px; padding-bottom: 2px; background: #FFE2E2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 4px; display: flex">
+                      <div style="color: #9F0712; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">High Risk</div>
+                    </div>
+                  </div>
+                  <div style="align-self: stretch; height: 22px; justify-content: space-between; align-items: flex-start; display: inline-flex">
+                    <div style="width: 64.42px; height: 22px; justify-content: flex-start; align-items: flex-start; display: flex">
+                      <div style="color: #0A0A0A; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Tunga Ward</div>
+                    </div>
+                    <div style="width: 88.84px; height: 22px; padding-left: 8px; padding-right: 8px; padding-top: 2px; padding-bottom: 2px; background: #FEF9C2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 4px; display: flex">
+                      <div style="color: #894B00; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Medium Risk</div>
+                    </div>
+                  </div>
+                  <div style="align-self: stretch; height: 22px; justify-content: space-between; align-items: flex-start; display: inline-flex">
+                    <div style="width: 90.11px; height: 22px; justify-content: flex-start; align-items: flex-start; display: flex">
+                      <div style="color: #0A0A0A; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Chanchaga Ward</div>
+                    </div>
+                    <div style="width: 69.56px; height: 22px; padding-left: 8px; padding-right: 8px; padding-top: 2px; padding-bottom: 2px; background: #FFE2E2; overflow: hidden; border-radius: 8px; outline: 1px rgba(0, 0, 0, 0) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 4px; display: flex">
+                      <div style="color: #9F0712; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">High Risk</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div style="align-self: stretch; height: 53px; padding-top: 17px; border-top: 1px rgba(0, 0, 0, 0.10) solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+                <div style="align-self: stretch; height: 16px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                  <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+                    <div style="width: 2.67px; height: 5.33px; left: 8px; top: 4px; position: absolute; outline: 1.33px #4A5565 solid; outline-offset: -0.67px"></div>
+                    <div style="width: 13.33px; height: 13.33px; left: 1.33px; top: 1.33px; position: absolute; outline: 1.33px #4A5565 solid; outline-offset: -0.67px"></div>
+                  </div>
+                  <div style="width: 150.03px; height: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <div style="color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Last updated: 2 minutes ago</div>
+                  </div>
+                </div>
+                <div style="align-self: stretch; height: 16px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+                  <div style="width: 16px; height: 16px; position: relative; overflow: hidden">
+                    <div style="width: 13.33px; height: 1.33px; left: 1.33px; top: 3.33px; position: absolute; outline: 1.33px #4A5565 solid; outline-offset: -0.67px"></div>
+                    <div style="width: 13.33px; height: 1.33px; left: 1.33px; top: 7.33px; position: absolute; outline: 1.33px #4A5565 solid; outline-offset: -0.67px"></div>
+                    <div style="width: 13.33px; height: 1.33px; left: 1.33px; top: 11.33px; position: absolute; outline: 1.33px #4A5565 solid; outline-offset: -0.67px"></div>
+                  </div>
+                  <div style="width: 141.69px; height: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <div style="color: #4A5565; font-size: 12px; font-family: Arial; font-weight: 400; line-height: 16px; word-wrap: break-word">Powered by FloodGuard AI</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 153.23px; height: 40px; left: 804.77px; top: 504px; position: absolute; background: #030213; box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10); border-radius: 33554400px">
+    <div style="width: 16px; height: 16px; left: 16px; top: 12px; position: absolute; overflow: hidden">
+      <div style="width: 4px; height: 6px; left: 6px; top: 8px; position: absolute; outline: 1.33px white solid; outline-offset: -0.67px"></div>
+      <div style="width: 12px; height: 12.67px; left: 2px; top: 1.33px; position: absolute; outline: 1.33px white solid; outline-offset: -0.67px"></div>
+    </div>
+    <div style="left: 48px; top: 8px; position: absolute; color: white; font-size: 14px; font-family: Arial; font-weight: 400; line-height: 20px; word-wrap: break-word">Back to Home</div>
+  </div>
+</div>
